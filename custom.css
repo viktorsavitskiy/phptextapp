@@ -1,0 +1,25 @@
+#wrapper{
+	width:450px;
+	min-height:500px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:50px;
+	border:1px solid black;
+	border-radius:5px;
+	text-align:center;
+	box-shadow: 8px 5px #6c6c6c;
+}
+
+#wrapper h1{
+	font-style:italic;
+}
+
+.info{
+	font-size:10px;
+	font-style:italic;
+	color:#c9c9c9;
+}
+
+#footer{
+	color:#ffffff;
+}
